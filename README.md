@@ -9,7 +9,7 @@ DVSTEAM dựa theo mã nguồn gốc của XrayR để mod lại tiếng việt 
 Cài Đặt XrayR tiếng việt với 1 lệnh duy nhất, ae chỉ việt điền đúng thông tin mà DVSTEAM yêu cầu còn lại DVSTEAM tự động setup hết😘
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dvsteam/DVS-XrayR/main/dvs-install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Huy-02/XRAYR/main/dvs-install.sh)
 ```
 (Cấu Hình Hiện Tại Chỉ Hỗ Trợ Port 80, Giao Thức V2ray[VMess])
 
