@@ -1,11 +1,11 @@
 #!/bin/bash
 
-DVS_install="https://github.com/dvsteam/DVS-XrayR/releases/download/dvsteam/dvsteam.zip"
-DVS_File="dvsteam.zip"
-DVS_Run="dvsteam"
+DVS_install="https://github.com/Huy-02/XRAYR/releases/download/dvsteam/Huy-02.zip"
+DVS_File="Huy-02.zip"
+DVS_Run="Huy-02"
 
 # Kiểm tra quyền root
-[ "$(id -u)" -ne 0 ] && echo "DVSTEAM này cần quyền root để chạy. Vui lòng chạy dưới dạng root -->Gõ: sudo -i <-- Để truy cập root" && exit 1
+[ "$(id -u)" -ne 0 ] && echo "XRAYR này cần quyền root để chạy. Vui lòng chạy dưới dạng root -->Gõ: sudo -i <-- Để truy cập root" && exit 1
 
 for cmd in wget unzip; do
     command -v $cmd &> /dev/null || { echo "Cài đặt $cmd..."; sudo apt update; sudo apt install $cmd -y; }
