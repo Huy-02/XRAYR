@@ -5,8 +5,8 @@ Khung phụ trợ Xray có thể dễ dàng hỗ trợ nhiều bảng.
 Khung back-end dựa trên Xray, hỗ trợ các giao thức V2ay, Trojan, Shadowsocks, dễ mở rộng và hỗ trợ docking nhiều bảng
 
 DVSTEAM dựa theo mã nguồn gốc của XrayR để mod lại tiếng việt cho ae dễ thao tác, và dễ thực hiện hơn
-## ⚙️Cài đặt XrayR DVSTEAM
-Cài Đặt XrayR tiếng việt với 1 lệnh duy nhất, ae chỉ việt điền đúng thông tin mà DVSTEAM yêu cầu còn lại DVSTEAM tự động setup hết😘
+## ⚙️Cài đặt XrayR
+Cài Đặt XrayR tiếng việt với 1 lệnh duy nhất, ae chỉ việt điền đúng thông tin mà hệ thống yêu cầu còn lại hệ thông tự động setup hết😘
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/Huy-02/XRAYR/main/dvs-install.sh)
@@ -30,18 +30,12 @@ Cổng 443 cần chứng chỉ SSl/TLS nên nếu các ae cần 443 sẽ setup r
 
 ![dvsteam443](https://github.com/dvsteam/DVS-XrayR/assets/91702958/d047396a-f083-4cdf-ab6d-248ba3889b11)
 
-### [🔰Zalo: 08353.15551](https://zalo.me/dvsteam)
+### [🔰Zalo
 
-### [🔰Telegram](https://t.me/DuongVanSy)
+### [🔰Telegram]
  
 
 
 Tìm mã nguồn gốc XrayR tại đây: [XrayR-project/XrayR](https://github.com/XrayR-project/XrayR)
 
 ## Donate
-
-Ủng hộ dự án DVSTEAM nếu thích✅
-
-MoMo: 08353.15551
-
-MB Bank: 888880.5678.9999
