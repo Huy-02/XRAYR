@@ -271,7 +271,7 @@ install_bbr() {
 }
 
 update_shell() {
-    wget -O /usr/bin/XrayR -N --no-check-certificate https://raw.githubusercontent.com/dvsteam/DVS-XrayR/main/XrayR.sh
+    wget -O /usr/bin/XrayR -N --no-check-certificate https://raw.githubusercontent.com/Huy-02/XRAYR/main/XrayR.sh
     if [[ $? != 0 ]]; then
         echo ""
         echo -e "${red}Tải xuống tập lệnh không thành công, vui lòng kiểm tra xem thiết bị có thể kết nối với Github không${plain}"
@@ -388,7 +388,7 @@ show_usage() {
 show_menu() {
     echo -e "
   ${green}XrayR Menu tiện ích${plain}
-  ${red}---> Địa chỉ dự án DVSTEAM https://github.com/dvsteam/DVS-XrayR <---${plain}
+  ${red}---> Địa chỉ dự án XRAYR https://github.com/Huy-02/XRAYR <---${plain}
   ${green}0.${plain} Thay đổi cài đặt
 ————————————————
   ${green}1.${plain} Cài đặt XrayR
