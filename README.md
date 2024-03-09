@@ -20,7 +20,7 @@ Nếu Cần Hỗ Trợ Cổng 443 Trojan & VMess, và muốn dùng 1vps chạy 2
 
 Mỗi 1 Thiết Bị là có 1 IP Nên XrayR Giới Hạn IP Theo Thiết Bị Đó Nha.
 
-![image](https://github.com/dvsteam/DVS-XrayR/assets/91702958/78d3fd48-04c6-4713-ab39-8baae5d92c92)
+
 
 🔰(PanelType: NewV2board)Ae nào dùng V2board v1.7.0 trở lên thì, chọn NewV2board để dụng API mới nha, API mới giới hạn tốc độ trực tiếp trên gói, không cần nhập trong config
 
@@ -28,7 +28,7 @@ Mỗi 1 Thiết Bị là có 1 IP Nên XrayR Giới Hạn IP Theo Thiết Bị �
 ## Demo 80 - 443 VMess Và Trojan
 Cổng 443 cần chứng chỉ SSl/TLS nên nếu các ae cần 443 sẽ setup riêng cho ae 2 giao thức tuỳ chỉnh như hình demo.
 
-![dvsteam443](https://github.com/dvsteam/DVS-XrayR/assets/91702958/d047396a-f083-4cdf-ab6d-248ba3889b11)
+
 
 ### [🔰Zalo
 
